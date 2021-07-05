@@ -1,4 +1,35 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 h1{
     text-align: center;
     color: 	#ff8000;
 }
+h2{
+    font-size: 35px;
+}
+.orange{
+    color:#ff8000;
+}
+
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width:50%;
+    margin-left:5%;
+}
+
+.half-width img{
+    width:80%;
+    margin-top: -5%;
+}
+.link-button{
+    text-decoration: none;
+    color:white;
+    font-weight: 700;
+    background-image: linear-gradient(orange, tomato);
+    padding:10px  20px;
+    border-radius: 30px;
+}
+
