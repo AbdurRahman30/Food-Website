@@ -2,6 +2,10 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+.color{
+    text-align: center;
+    font-size: 40px;
+}
 .orange-color{
     color: rgb(255, 94, 0);
 }
